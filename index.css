@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.banner{
+    background-image: url(image/Banner\ Image.png);
+    background-repeat: no-repeat;
+    height: 550px;
+    text-align: center;
+    padding: 233px 344px 30px 344px;
+}
+.banner h3{
+    color: #fff;
+    text-shadow: 10px 10px 10px;
+
+}
+.banner-title{
+    color: #fff;
+    font-size: 45px;
+    font-weight: 700;
+}
+/* main section */
+
+.discount{
+    color: #ff7300;
+    font-size: 65px;
+    font-family: 700;
+    text-align: center;
+}
+.discount-description{
+    color: #ff7300;
+    text-align: center;
+    text-transform: uppercase;
+}
+.categories{
+    text-align: center;
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+.new-photo{
+    padding-top: 50px;
+    padding-left: 300px;
+    width: auto;    
+}
+/* second  */
+.second-section{
+    background-image: url(image/Vectorrr.png);
+    height: 550px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 50px;
+    padding: 0 60px;
+}
+
+.second-description{
+    color: lightgrey;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.year-image{
+    height: 320px;
+    width: 400px;
+    margin: 0 30px;
+}
+.primary-btn{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 7px;
+    background-color: #ff7300;
+    margin-top: 20px;
+}
